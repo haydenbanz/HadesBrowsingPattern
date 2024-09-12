@@ -74,22 +74,22 @@ Several visualizations were generated to better understand user behavior:
 ## 📷 Screenshots
 
 ### Screenshot 1
-![Screenshot 1](https://github.com/haydenbanz/haydenbanz.github.io/blob/main/images/%20gitimage/12.09.2024_10.58.14_REC.png?raw=true)
+![Screenshot 1](https://github.com/haydenbanz/haydenbanz.github.io/blob/main/images/%20gitimage/scr55sd44555.png?raw=true)
 
 ### Screenshot 2
-![Screenshot 2](https://github.com/haydenbanz/haydenbanz.github.io/blob/main/images/%20gitimage/12.09.2024_10.58.33_REC.png?raw=true)
+![Screenshot 2](https://github.com/haydenbanz/haydenbanz.github.io/blob/main/images/%20gitimage/scrn4575jh6.png?raw=true)
 
 ### Screenshot 3
-![Screenshot 3](https://github.com/haydenbanz/haydenbanz.github.io/blob/main/images/%20gitimage/12.09.2024_10.58.50_REC.png?raw=true)
+![Screenshot 3](https://github.com/haydenbanz/haydenbanz.github.io/blob/main/images/%20gitimage/scrn45jh765.png?raw=true)
 
 ### Screenshot 4
-![Screenshot 4](https://github.com/haydenbanz/haydenbanz.github.io/blob/main/images/%20gitimage/12.09.2024_10.59.02_REC.png?raw=true)
+![Screenshot 4](https://github.com/haydenbanz/haydenbanz.github.io/blob/main/images/%20gitimage/scrn57gbi85u.png?raw=true)
 
 ### Screenshot 5
-![Screenshot 5](https://github.com/haydenbanz/haydenbanz.github.io/blob/main/images/%20gitimage/12.09.2024_10.59.15_REC.png?raw=true)
+![Screenshot 5](https://github.com/haydenbanz/haydenbanz.github.io/blob/main/images/%20gitimage/scrn58j75bb.png?raw=true)
 
 ### Screenshot 6
-![Screenshot 6](https://github.com/haydenbanz/haydenbanz.github.io/blob/main/images/%20gitimage/12.09.2024_10.59.37_REC.png?raw=true)
+![Screenshot 6](https://github.com/haydenbanz/haydenbanz.github.io/blob/main/images/%20gitimage/scrnh345.png?raw=true)
 
 ## 🚫 Disclaimer
 
