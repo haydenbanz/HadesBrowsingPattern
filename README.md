@@ -1,4 +1,5 @@
-# BrowsingPatterns
+# HadesBrowsingPattern
+![HadesBrowsingPattern](https://github.com/haydenbanz/haydenbanz.github.io/blob/main/images/%20gitimage/Hades16867.png?raw=true)
 BrowsingPatterns analyzes browser history to reveal behavioral trends. Using data mining and machine learning, it uncovers patterns in browsing habits, time spent on sites, and more, offering interactive insights and visualizations to understand online behavior.
 
 [![Python - HadesBrowsingPattern](https://img.shields.io/static/v1?label=Python&message=HadesBrowsingPattern&color=%242A3E87&labelColor=%236A7DA8&style=for-the-badge&&logo=python)](https://github.com/haydenbanz/HadesBrowsingPattern/tree/main)
