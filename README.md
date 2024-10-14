@@ -109,7 +109,7 @@ We welcome contributions to HadesBrowsingPattern! If you have suggestions for im
 
 2. **Clone Your Fork**: Clone your forked repository to your local machine using the following command:
     ```bash
-    git clone https://github.com/your-username/HadesBrowsingPattern.git
+    git clone https://github.com/haydenbanz/HadesBrowsingPattern.git
     ```
 
 3. **Create a New Branch**: Create a new branch for your feature or bugfix:
