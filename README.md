@@ -153,15 +153,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Unauthorized use is strictly prohibited.**
 
-👤 Hayden  
 📧 Email: cubedimension@protonmail.com  
 
 
-## 🙏 Credits
 
-This project is maintained by:
-
-[<img src="https://avatars.githubusercontent.com/u/135024483?s=48&v=4" width="64" height="64" alt="Contributor Name">](https://github.com/code-glitchers)
 
 ### Contributors and Developers
 
